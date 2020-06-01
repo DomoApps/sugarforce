@@ -1,0 +1,20 @@
+{
+  "name": "sugarforce",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "collections": [{
+    "name": "opportunities"
+  }],
+  "mapping": [
+    {
+      "dataSetId": "73b1ad2b-0759-46e3-903d-fc947429fc88",
+      "alias": "leads",
+      "fields": []
+    }
+  ],
+  "proxyId": "426b5c72-4829-4ed6-8d8b-5bbf19d29734",
+  "id": "15e5a077-22df-4228-b232-d71dd631394c"
+}
